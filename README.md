@@ -69,6 +69,14 @@
 
 ###
 
+<h1 align="left">
+  Want to know more? <br>
+  Here is my resume ➡️ 
+  <a href="https://drive.google.com/file/d/1_foH46zEGo3h08JYuH_4C6X_n9zukekB/view?usp=sharing" target="_blank" rel="noopener noreferrer">📄</a>
+</h1>
+
+###
+
 <div align="center">
   <img height="220" src="https://i.pinimg.com/originals/41/f9/0b/41f90b8868bd740611ae467b8eaeb5a4.gif"  />
 </div>
